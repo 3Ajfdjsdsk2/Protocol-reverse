@@ -1,7 +1,7 @@
-# OP-MDIplier
+# MDIplier*
 
 MDIplier is a tool for binary protocol reverse engineering. It takes network traces as input and infer message format by delimiter identifier and hierarchical inference. Please find the details in our paper: [MDIPLIER: Protocol Format Inference via Hierarchical Inference].
-OP-MDIplier improves the alignment algorithm of MDIplier, making it more efficient for large datasets. It also includes find_delimiter.py, which uses protocol features and four heuristic rules to better analyze the protocol format.
+MDIplier* improves the alignment algorithm of MDIplier, making it more efficient for large datasets. It also includes find_delimiter.py, which uses protocol features and four heuristic rules to better analyze the protocol format.
 
 ## Installation
 - Install dependencies (python 3.6 or higher):
